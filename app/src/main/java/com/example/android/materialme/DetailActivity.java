@@ -19,5 +19,4 @@ public class DetailActivity extends AppCompatActivity {
         sportsTitle.setText(getIntent().getStringExtra("title"));
         Glide.with(this).load(getIntent().getIntExtra("image_resource",0)) .into(sportsImage);
     }
-
 }
