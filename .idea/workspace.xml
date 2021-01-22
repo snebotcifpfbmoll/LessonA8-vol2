@@ -6,11 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6840c39c-0161-4b11-a5ac-a23d7efce20b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_item.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6840c39c-0161-4b11-a5ac-a23d7efce20b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,10 +139,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="308" y="212" key="AndroidCreateResourceDirectoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1611251243361" />
-    <state x="283" y="212" width="1039" height="476" key="AndroidCreateResourceFileDialog" timestamp="1611307486690">
+    <state x="283" y="212" width="1039" height="476" key="AndroidCreateResourceFileDialog" timestamp="1611308080130">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="283" y="212" width="1039" height="476" key="AndroidCreateResourceFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1611307486690" />
+    <state x="283" y="212" width="1039" height="476" key="AndroidCreateResourceFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1611308080130" />
     <state x="575" y="294" key="AndroidCreateXmlResourceDialog" timestamp="1611253776843">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
